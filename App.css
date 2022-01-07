@@ -1,0 +1,82 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.name{
+  background-color: rgb(72, 175, 175);
+  color: white;
+  padding: 15px;
+}
+
+.chat{
+  border-radius: 50px,50px,50px,50px;
+
+}
+
+.textbox{
+  width: 90%;
+  height:70px;
+  border-radius: 15px;
+}
+
+.send{
+  width:9.3%;
+  height: 74.8px;
+  border-radius: 15px;
+}
+
+.first{
+  width: 100%;
+  height: 30px;
+  text-align-last: left;
+  border-bottom-right-radius: 300px;
+  border-top-right-radius: 300px;
+  background-color: rgb(67, 201, 194);
+  color:white;
+}
+
+.second{
+  width: 100%;
+  height: 30px;
+  text-align-last: right;
+  /* border-bottom-left-radius: 5px; */
+  border-bottom-left-radius: 300px;
+  border-top-left-radius: 300px;
+  background-color: rgb(88, 179, 174);
+  color:white;
+}
